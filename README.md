@@ -1,2 +1,1 @@
-# SubIntel---Subscription-Management-App
-SubIntel is a smart app that helps you manage all your subscriptions in one place. It tracks due dates, sends payment reminders, and prevents unwanted charges. Stay organized and take control of your recurring expenses with ease.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/ikcqy4W8ZVN9WAEuhqzvq2/subscription-management-app?node-id=32-116&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=32%3A116&embed-host=share" allowfullscreen></iframe>
